@@ -482,7 +482,7 @@ margin-top:5px;
 /////////////////////////////////   RESPONSIVE DESIGN  ///////////////////////////////////////////////
 */
 
-@media screen and (max-width:768px){
+/* @media screen and (max-width:768px){
   header {
     display:none;
   }
@@ -495,13 +495,13 @@ margin-top:5px;
 .container{
       transform: scale(60%);
 }
-  /* #home .info-section{
+  #home .info-section{
     transform: scale(80%);
   }
 
   #home .photos{
     transform: scale(40%);
-  } */
+  }
 }
 
 @media screen and (max-width:360px){
@@ -518,4 +518,4 @@ margin-top:5px;
       transform: scale(40%);
 }
 
-}
+} */
